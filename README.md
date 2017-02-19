@@ -5,7 +5,7 @@ Is your default brightness adjust not working? Many Linux users face this proble
 #### :nut_and_bolt: System Requirements:
 * Intel Integrated Graphics Card
 
-NOTE: If you are running KDE and maybe don't prefer using the command line, then you can try the GUI based application available [here](https://github.com/shubhamk008/BrightnessFix-KDE-Intel). Although, this command works on KDE too.
+NOTE: If you are running KDE and maybe don't prefer using the command line, then you can try the GUI based application available [here](https://github.com/shubhamk008/BrightnessFix-KDE-Intel). (Although, this command works on KDE too.)
 
 #### :hash: Command:
 1. Download script and move to /usr/local/bin [Refer screenshot]
